@@ -9,7 +9,7 @@ Queries the host OS to see if it's on Windows 10/11 Pro vs Windows Server/Hyper-
 
 Changed up where I cached credentials on each VM in order to force range players to dump more potential sources
 
-Added a VM running MSSQL to the second forest; Research.local (That forest is in our repo here: )
+Added a VM running MSSQL to the second forest; Research.local (That forest is in our repo here:https://github.com/EugeneBelford1995/Mishkys-Range-Expansion-Pack-Version1.1 )
 
 There likely will not be a version 1.2 unless I figure out how to work an Exchange Server into the range.
 
