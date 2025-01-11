@@ -1,4 +1,6 @@
 ﻿Write-Host "Generate-Traffic simulates a user on US-Client fat fingering a share drive every few minutes."
+Write-Host "Import the function by running this PS1, run Responder on Kali, and then execute the command 'Generate-Traffic' in order to simulate the user."
+
 Function Generate-Traffic
 {
 #Run this on ThePunisher to simulate a user fat fingering a share drive
