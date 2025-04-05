@@ -1,3 +1,5 @@
+![Diagram](https://github.com/user-attachments/assets/fba59c03-332a-4a40-844f-e131b8c2d2ac)
+
 # Mishkys-AD-Range-Version1.1
 Mishky's AD Range &amp; The Escalation Path from Hell, version 1.1
 
@@ -23,4 +25,4 @@ Run Create-Range.ps1 (spins up 4 VMs in parent & child domains, configs everythi
 Open up Hyper-V Manager, connect to each VM, and hit Enter. This will leave each VM sitting at a login screen instead a 'select keyboard layout' screen.
 
 Spin up your Kali VM, run Responder, run Generate-Traffic.ps1, and start attacking the range.
-![Diagram](https://github.com/user-attachments/assets/fba59c03-332a-4a40-844f-e131b8c2d2ac)
+
